@@ -1,4 +1,4 @@
-__author__ = 'Bernardo Godinho
+__author__ = 'Bernardo Godinho'
 
 ########################################################
 #              DRAWS A LEAF USING TURTLE               #
